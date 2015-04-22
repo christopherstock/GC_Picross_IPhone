@@ -1,0 +1,1349 @@
+TPicrossIPhone
+v7
+r0
+t374705087.206062
+cCheck dependencies
+cProcessInfoPlistFile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/Info.plist PicrossIPhone-Info.plist
+cCompileXIB /Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib
+cCompileXIB /Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/0.png 0.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/1.png 1.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/2.png 2.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/3.png 3.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/4.png 4.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/5.png 5.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/6.png 6.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/7.png 7.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/8.png 8.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/9.png 9.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/10.png 10.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/11.png 11.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/12.png 12.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/13.png 13.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/14.png 14.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/15.png 15.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/16.png 16.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/17.png 17.png
+cCpResource build/Debug-iphonesimulator/PicrossIPhone.app/bg.mp3 bg.mp3
+cProcessPCH /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch.gch PicrossIPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/main.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneAppDelegate.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneViewController.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneView.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDebug.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDialog.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDrawing.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibIO.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKey.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKeySystem.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibMath.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliver.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliverParticle.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSound.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibThread.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibUtil.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/Picross.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossSettings.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossResources.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossLevel.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossState.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossMainMenu.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossGame.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone normal i386
+cGenerateDSYMFile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app.dSYM /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone
+cTouch /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/0.png
+c000000004F1C055400000000000067EA
+t1327236436
+s26602
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/1.png
+c000000004ED26E060000000000000350
+t1322413574
+s848
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/10.png
+c000000004EDD330F0000000000000202
+t1323119375
+s514
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/11.png
+c000000004EDD33150000000000000182
+t1323119381
+s386
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/12.png
+c000000004EDD331B00000000000001B3
+t1323119387
+s435
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/13.png
+c000000004EDD3322000000000000013E
+t1323119394
+s318
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/14.png
+c000000004EDFED570000000000000544
+t1323298135
+s1348
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/15.png
+c000000004EE3E5A0000000000000007A
+t1323558304
+s122
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/16.png
+c000000004EE4728B000000000000009B
+t1323594379
+s155
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/17.png
+c000000004EE4741000000000000000F6
+t1323594768
+s246
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/2.png
+c000000004ED821940000000000000342
+t1322787220
+s834
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/3.png
+c000000004FFB1B93000000000008C07B
+t1341856659
+s573563
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/4.png
+c000000004EDD32E40000000000000229
+t1323119332
+s553
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/5.png
+c000000004EDD32ED0000000000000200
+t1323119341
+s512
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/6.png
+c000000004EDD32F500000000000001A5
+t1323119349
+s421
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/7.png
+c000000004EDD32FD00000000000001D8
+t1323119357
+s472
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/8.png
+c000000004EDD33030000000000000165
+t1323119363
+s357
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/9.png
+c000000004EDD33080000000000000269
+t1323119368
+s617
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.h
+c000000004EE53BA5000000000000029D
+t1323645861
+s669
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m
+c000000004ED0E1F300000000000000E2
+t1322312179
+s226
+i"LibDebug.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.h
+c000000004EE106960000000000000170
+t1323370134
+s368
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m
+c000000004F08D59700000000000002FC
+t1325979031
+s764
+i"LibDialog.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.h
+c000000004F1C8A620000000000000C23
+t1327270498
+s3107
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m
+c000000004F1C93070000000000001594
+t1327272711
+s5524
+i"LibDrawing.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.h
+c000000004EE927290000000000000361
+t1323902761
+s865
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m
+c000000004EE9272900000000000001C9
+t1323902761
+s457
+i"LibIO.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.h
+c000000004EE349A600000000000001CD
+t1323518374
+s461
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m
+c000000004EE365B9000000000000038C
+t1323525561
+s908
+i"LibKey.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.h
+c000000004EE92971000000000000045F
+t1323903345
+s1119
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m
+c000000004F08D3A9000000000000160C
+t1325978537
+s5644
+i"LibDebug.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.h
+c000000004EE35DE90000000000000125
+t1323523561
+s293
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m
+c000000004EE35DE90000000000000220
+t1323523561
+s544
+i"LibMath.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.h
+c000000004EDFE8230000000000000165
+t1323296803
+s357
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m
+c000000005004C3AA0000000000000717
+t1342489514
+s1815
+i"LibDebug.h"
+i"LibDrawing.h"
+i"LibSliver.h"
+i"LibSliverParticle.h"
+i"Picross.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.h
+c000000004EE927290000000000000368
+t1323902761
+s872
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m
+c000000005004C2790000000000000A7E
+t1342489209
+s2686
+i"LibDrawing.h"
+i"LibSliverParticle.h"
+i"LibMath.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.h
+c000000004F08D3D1000000000000022C
+t1325978577
+s556
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m
+c000000004F08D3DB0000000000000177
+t1325978587
+s375
+i"LibSound.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.h
+c000000004EE49AD30000000000000364
+t1323604691
+s868
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m
+c000000005003362F00000000000003B6
+t1342387759
+s950
+i"Picross.h"
+i"PicrossIPhoneViewController.h"
+i"LibDebug.h"
+i"LibThread.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.h
+c000000004FFB332400000000000005B0
+t1341862692
+s1456
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m
+c000000004FFB33E50000000000000455
+t1341862885
+s1109
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.h
+c00000000500335D30000000000000584
+t1342387667
+s1412
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m
+c000000005004C0D10000000000001B64
+t1342488785
+s7012
+i"Picross.h"
+i"PicrossGame.h"
+i"PicrossMainMenu.h"
+i"PicrossState.h"
+i"PicrossIPhoneViewController.h"
+i"PicrossResources.h"
+i"PicrossSettings.h"
+i"LibDebug.h"
+i"LibDialog.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibSound.h"
+i"LibThread.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.h
+c0000000050073D8800000000000007C4
+t1342651784
+s1988
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m
+c000000005008758C0000000000005915
+t1342731660
+s22805
+i"PicrossGame.h"
+i"Picross.h"
+i"PicrossLevel.h"
+i"PicrossSettings.h"
+i"PicrossResources.h"
+i"PicrossState.h"
+i"PicrossIPhoneView.h"
+i"LibDebug.h"
+i"LibDialog.h"
+i"LibDrawing.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibMath.h"
+i"LibUtil.h"
+i"LibSliver.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.h
+c000000004F1210BB00000000000001F5
+t1326583995
+s501
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m
+c000000004FFB1E7100000000000013DD
+t1341857393
+s5085
+i"LibDebug.h"
+i"PicrossIPhoneAppDelegate.h"
+i"PicrossIPhoneViewController.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.h
+c000000004FFB1EED00000000000000B8
+t1341857517
+s184
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m
+c00000000500338340000000000000922
+t1342388276
+s2338
+i"Picross.h"
+i"PicrossIPhoneView.h"
+i"LibDebug.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.h
+c000000004F11D3DE0000000000000244
+t1326568414
+s580
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m
+c000000004FFB29570000000000000D0D
+t1341860183
+s3341
+i"LibDebug.h"
+i"Picross.h"
+i"PicrossIPhoneView.h"
+i"PicrossIPhoneViewController.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.h
+c000000004EE47C96000000000000041F
+t1323596950
+s1055
+i"PicrossResources.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m
+c00000000500A7E070000000000002BB4
+t1342864903
+s11188
+i"Picross.h"
+i"PicrossGame.h"
+i"PicrossLevel.h"
+i"PicrossResources.h"
+i"PicrossState.h"
+i"LibDebug.h"
+i"LibSliver.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.h
+c000000005003336B00000000000002FA
+t1342387051
+s762
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m
+c00000000500338860000000000001C84
+t1342388358
+s7300
+i"PicrossMainMenu.h"
+i"Picross.h"
+i"PicrossResources.h"
+i"PicrossSettings.h"
+i"PicrossState.h"
+i"LibDebug.h"
+i"LibDrawing.h"
+i"LibKey.h"
+i"LibKeySystem.h"
+i"LibMath.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.h
+c000000004F120F5E00000000000003C3
+t1326583646
+s963
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m
+c000000004F120F4D0000000000000373
+t1326583629
+s883
+i"PicrossResources.h"
+i"LibDebug.h"
+i"LibIO.h"
+i"LibUtil.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.h
+c000000004F1C923D00000000000004E3
+t1327272509
+s1251
+i"LibDrawing.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m
+c000000004EE35DEA00000000000000A4
+t1323523562
+s164
+i"PicrossSettings.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.h
+c00000000500333C00000000000000379
+t1342387136
+s889
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m
+c0000000050033BC50000000000000C97
+t1342389189
+s3223
+i"Picross.h"
+i"PicrossState.h"
+i"PicrossMainMenu.h"
+i"PicrossGame.h"
+i"PicrossLevel.h"
+i"PicrossSettings.h"
+i"PicrossIPhoneView.h"
+i"LibDebug.h"
+i"LibDrawing.h"
+i"LibKeySystem.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.h
+c000000004EE533FC00000000000000E8
+t1323643900
+s232
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m
+c000000004EE533FC0000000000000624
+t1323643900
+s1572
+i"TestViewController.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.h
+c000000004EE537B400000000000000CA
+t1323644852
+s202
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m
+c000000004EE5381100000000000007A3
+t1323644945
+s1955
+i"untitled.h"
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib
+c000000004EE533250000000000004E71
+t1323643685
+s20081
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib
+c000000004EE533250000000000001A5D
+t1323643685
+s6749
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone_Prefix.pch
+c000000004F08D6CE00000000000000AE
+t1325979342
+s174
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/bg.mp3
+c0000000046FBDFB00000000000138D8C
+t1190911920
+s1281420
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app
+t1342864915
+s884
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app.dSYM
+t1342864915
+s102
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/0.png
+t1327236440
+s26602
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/1.png
+t1326583744
+s848
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/10.png
+t1326583744
+s514
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/11.png
+t1326583744
+s386
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/12.png
+t1326583744
+s435
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/13.png
+t1326583744
+s318
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/14.png
+t1326583744
+s1348
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/15.png
+t1326583744
+s122
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/16.png
+t1326583744
+s155
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/17.png
+t1326583744
+s246
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/2.png
+t1326583744
+s834
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/3.png
+t1341856677
+s573563
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/4.png
+t1326583744
+s553
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/5.png
+t1326583744
+s512
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/6.png
+t1326583744
+s421
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/7.png
+t1326583744
+s472
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/8.png
+t1326583744
+s357
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/9.png
+t1326583744
+s617
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/Info.plist
+t1323643690
+s615
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/MainWindow.nib
+t1323643691
+s1693
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone
+t1342864915
+s101392
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhoneViewController.nib
+t1323643691
+s1269
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PkgInfo
+t1323643690
+s8
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/bg.mp3
+t1326583744
+s1281420
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDebug.o
+t1326024070
+s6284
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDialog.o
+t1326024070
+s6488
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDrawing.o
+t1341862701
+s17824
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibIO.o
+t1326024070
+s8280
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKey.o
+t1326024070
+s9068
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKeySystem.o
+t1326024070
+s16036
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibMath.o
+t1326024070
+s7028
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliver.o
+t1342489523
+s13172
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliverParticle.o
+t1342489211
+s14472
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSound.o
+t1326024070
+s5076
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibThread.o
+t1342387773
+s8732
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibUtil.o
+t1342386394
+s43388
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/Picross.o
+t1342651789
+s23132
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossGame.o
+t1342731661
+s48408
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhone.LinkFileList
+c000000004F1211500000000000000DFB
+t1326584144
+s3579
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneAppDelegate.o
+t1341857422
+s54708
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneView.o
+t1342388360
+s41836
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneViewController.o
+t1342387707
+s44608
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossLevel.o
+t1342864915
+s24500
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossMainMenu.o
+t1342388360
+s19388
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossResources.o
+t1341862701
+s10632
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossSettings.o
+t1327272522
+s5136
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossState.o
+t1342651789
+s45284
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/TestViewController.o
+t1323644031
+s38112
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/main.o
+t1326024070
+s6336
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/untitled.o
+t1323644945
+s38924
+
+N/Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m
+c000000004F08D6B60000000000000160
+t1325979318
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch.gch
+t1326024070
+s15814064
+
+N/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch.gch
+t1325979349
+s15814064
+
+NPicrossIPhone-Info.plist
+c000000004EE53325000000000000038D
+t1323643685
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374705087#374705087#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDebug.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.239605
+e347716870.306774
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDebug.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m347716870#347716870#0(0"0(0#0#71"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m8618090528#2204"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDebug.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDebug.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDialog.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.306875
+e347716870.389457
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDialog.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m347716870#347716870#0(0"0(0#0#72"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m8609584608#2206"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDialog.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDialog.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDrawing.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363555501.762277
+e363555501.856959
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDrawing.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m363555501#363555501#0(0"0(0#0#73"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m8619556000#2208"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibDrawing.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibDrawing.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibIO.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.389564
+e347716870.457137
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibIO.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m347716870#347716870#0(0"0(0#0#68"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m8619096832#2198"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibIO.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibIO.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKey.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.409569
+e347716870.481865
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKey.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m347716870#347716870#0(0"0(0#0#69"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m8618363680#2200"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKey.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKey.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKeySystem.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.457244
+e347716870.536986
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKeySystem.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m347716870#347716870#0(0"0(0#0#75"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m8608265504#2212"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibKeySystem.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibKeySystem.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibMath.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.481972
+e347716870.541473
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibMath.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m347716870#347716870#0(0"0(0#0#70"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m8618557408#2202"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibMath.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibMath.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliver.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364182323.338725
+e364182323.399112
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliver.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m364182323#364182323#0(0"0(0#0#72"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m8617895808#2206"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliver.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliver.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliverParticle.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364182011.159899
+e364182011.222944
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliverParticle.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m364182011#364182011#0(0"0(0#0#80"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m8612413312#2222"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSliverParticle.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSliverParticle.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSound.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.620264
+e347716870.686078
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSound.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m347716870#347716870#0(0"0(0#0#71"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m8618997376#2204"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibSound.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibSound.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibThread.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364080573.672232
+e364080573.729898
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibThread.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m364080573#364080573#0(0"0(0#0#72"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m8617449600#2206"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibThread.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibThread.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibUtil.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364079193.947961
+e364079194.427696
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibUtil.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m364079193#364079194#0(0"0(0#0#70"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m3343199723162978816#2202"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/LibUtil.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/LibUtil.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/Picross.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364344589.564434
+e364344589.798199
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/Picross.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m364344589#364344589#0(0"0(0#0#70"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m8611665184#2202"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/Picross.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/Picross.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossGame.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364424461.704467
+e364424461.849560
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossGame.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m364424461#364424461#0(0"0(0#0#74"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m8604344000#2210"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossGame.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossGame.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneAppDelegate.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363550222.519107
+e363550222.831874
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneAppDelegate.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m363550222#363550222#0(0"0(0#0#87"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m8604707776#2236"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneAppDelegate.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneAppDelegate.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneView.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364081160.518351
+e364081160.595496
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneView.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m364081160#364081160#0(0"0(0#0#80"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m8599710080#2222"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneView.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneView.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneViewController.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364080506.934660
+e364080507.032573
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneViewController.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m364080506#364080507#0(0"0(0#0#90"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m8616924992#2242"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossIPhoneViewController.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhoneViewController.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossLevel.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364557715.182543
+e364557715.269400
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossLevel.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m364557715#364557715#0(0"0(0#0#75"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m8600796544#2212"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossLevel.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossLevel.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossMainMenu.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364081160.520917
+e364081160.606693
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossMainMenu.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m364081160#364081160#0(0"0(0#0#78"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m8617196960#2218"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossMainMenu.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossMainMenu.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossResources.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s363555501.857332
+e363555501.941665
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossResources.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m363555501#363555501#0(0"0(0#0#79"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m8617922592#2220"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossResources.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossResources.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossSettings.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348965322.552692
+e348965322.624564
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossSettings.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m348965322#348965322#0(0"0(0#0#78"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m8618870816#2218"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossSettings.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossSettings.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossState.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s364344589.798331
+e364344589.918330
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossState.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m364344589#364344589#0(0"0(0#0#75"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m8613156064#2212"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/PicrossState.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossState.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/TestViewController.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345336831.062198
+e345336831.128930
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/TestViewController.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m345336831#345336831#0(0"0(0#0#81"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m8604271712#2224"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/TestViewController.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/TestViewController.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/main.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716870.140148
+e347716870.205222
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/main.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m347716870#347716870#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m8619195200#2188"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/main.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/main.o0#
+
+CCompileC build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/untitled.o /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345337745.904281
+e345337745.995473
+r1
+xCompileC
+xbuild/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/untitled.o
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m345337745#345337745#0(0"0(0#0#71"/Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m8613829536#2204"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -include /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/Classes/untitled.m -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/untitled.o0#
+
+CCompileXIB /Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib
+s345336490.760263
+e345336491.357396
+r1
+xCompileXIB
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib345336490#345336491#0(0"0(0#0#67"/Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib8590310592#618"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/MainWindow.nib /Users/chris/Documents/xcode_workspace/PicrossIPhone/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib
+s345336490.761033
+e345336491.173614
+r1
+xCompileXIB
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib
+lSLF07#2@42"CompileXIB PicrossIPhoneViewController.xib345336490#345336491#0(0"0(0#0#84"/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib8600066336#652"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhoneViewController.nib /Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhoneViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/0.png 0.png
+s348929240.541624
+e348929240.558879
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/0.png
+x0.png
+lSLF07#2@10"Copy 0.png348929240#348929240#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/0.png28429445101453416#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/0.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/1.png 1.png
+s348276544.017129
+e348276544.033848
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/1.png
+x1.png
+lSLF07#2@10"Copy 1.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/1.png8606663520#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/1.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/10.png 10.png
+s348276544.033938
+e348276544.046528
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/10.png
+x10.png
+lSLF07#2@11"Copy 10.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/10.png8615410080#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/10.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/11.png 11.png
+s348276544.035813
+e348276544.044657
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/11.png
+x11.png
+lSLF07#2@11"Copy 11.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/11.png8615064896#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/11.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/12.png 12.png
+s348276544.037765
+e348276544.058107
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/12.png
+x12.png
+lSLF07#2@11"Copy 12.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/12.png8614782048#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/12.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/13.png 13.png
+s348276544.039365
+e348276544.055604
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/13.png
+x13.png
+lSLF07#2@11"Copy 13.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/13.png8614647776#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/13.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/14.png 14.png
+s348276544.041288
+e348276544.064750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/14.png
+x14.png
+lSLF07#2@11"Copy 14.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/14.png8614507264#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/14.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/15.png 15.png
+s348276544.044728
+e348276544.068333
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/15.png
+x15.png
+lSLF07#2@11"Copy 15.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/15.png8614313696#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/15.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/16.png 16.png
+s348276544.046716
+e348276544.057529
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/16.png
+x16.png
+lSLF07#2@11"Copy 16.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/16.png8614265408#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/16.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/17.png 17.png
+s348276544.048319
+e348276544.060655
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/17.png
+x17.png
+lSLF07#2@11"Copy 17.png348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/17.png8614040000#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/17.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/2.png 2.png
+s348276544.018899
+e348276544.050115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/2.png
+x2.png
+lSLF07#2@10"Copy 2.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/2.png8617699424#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/2.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/3.png 3.png
+s363549477.266809
+e363549477.320502
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/3.png
+x3.png
+lSLF07#2@10"Copy 3.png363549477#363549477#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/3.png28429445101453416#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/3.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/4.png 4.png
+s348276544.020256
+e348276544.035738
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/4.png
+x4.png
+lSLF07#2@10"Copy 4.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/4.png8617501792#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/4.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/5.png 5.png
+s348276544.021122
+e348276544.041219
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/5.png
+x5.png
+lSLF07#2@10"Copy 5.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/5.png8617085984#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/5.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/6.png 6.png
+s348276544.022730
+e348276544.037698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/6.png
+x6.png
+lSLF07#2@10"Copy 6.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/6.png8616498656#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/6.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/7.png 7.png
+s348276544.023514
+e348276544.046653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/7.png
+x7.png
+lSLF07#2@10"Copy 7.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/7.png8616097280#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/7.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/8.png 8.png
+s348276544.025149
+e348276544.051928
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/8.png
+x8.png
+lSLF07#2@10"Copy 8.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/8.png8615908672#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/8.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/9.png 9.png
+s348276544.027053
+e348276544.053262
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/9.png
+x9.png
+lSLF07#2@10"Copy 9.png348276544#348276544#0(0"0(0#0#58"/Users/chris/Documents/xcode_workspace/PicrossIPhone/9.png8615571040#511"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/9.png /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CCpResource build/Debug-iphonesimulator/PicrossIPhone.app/bg.mp3 bg.mp3
+s348276544.050179
+e348276544.312505
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PicrossIPhone.app/bg.mp3
+xbg.mp3
+lSLF07#2@11"Copy bg.mp3348276544#348276544#0(0"0(0#0#59"/Users/chris/Documents/xcode_workspace/PicrossIPhone/bg.mp38613836640#512"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/chris/Documents/xcode_workspace/PicrossIPhone/bg.mp3 /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+
+CGenerateDSYMFile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app.dSYM /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone
+s364557715.315238
+e364557715.358134
+r1
+xGenerateDSYMFile
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app.dSYM
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/PicrossIPhone.app.dSYM build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone364557715#364557715#0(0"0(0#0#112"/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone8613151904#443"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app.dSYM0#
+
+CLd /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone normal i386
+s364557715.269503
+e364557715.315137
+r1
+xLd
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone
+xnormal
+xi386
+lSLF07#2@117"Link /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone364557715#364557715#0(0"0(0#0#0"8613916672#1000"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -filelist /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/Objects-normal/i386/PicrossIPhone.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PicrossIPhone0#
+
+CProcessInfoPlistFile /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/Info.plist PicrossIPhone-Info.plist
+s345336490.753126
+e345336490.760136
+r1
+xProcessInfoPlistFile
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/Info.plist
+xPicrossIPhone-Info.plist
+lSLF07#2@32"Process PicrossIPhone-Info.plist345336490#345336490#0(0"0(0#0#77"/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone-Info.plist32370099070566500#539"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PicrossIPhone-Info.plist -genpkginfo /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app/Info.plist0#
+
+CProcessPCH /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch.gch PicrossIPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347716868.239181
+e347716870.139728
+r1
+xProcessPCH
+x/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch.gch
+xPicrossIPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile PicrossIPhone_Prefix.pch347716868#347716870#0(0"0(0#0#77"/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone_Prefix.pch7516588538288108544#2060"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone_Prefix.pch -o /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-eznqmmlfdzwcdlebfeaizyzlhckw/PicrossIPhone_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch.gch PicrossIPhone_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347672147.477401
+e347672149.057466
+r1
+xProcessPCH
+x/var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch.gch
+xPicrossIPhone_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile PicrossIPhone_Prefix.pch347672147#347672149#0(0"0(0#0#77"/Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone_Prefix.pch8605143328#2060"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-generated-files.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-own-target-headers.hmap -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-all-target-headers.hmap -iquote /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/PicrossIPhone-project-headers.hmap -F/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/include -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources/i386 -I/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/PicrossIPhone.build/Debug-iphonesimulator/PicrossIPhone.build/DerivedSources -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/PicrossIPhone_Prefix.pch -o /var/folders/3t/3teWTx7SGkil0dG5nmoq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PicrossIPhone_Prefix-gtfflqyjbyffzjfpxybeledlmsxp/PicrossIPhone_Prefix.pch.gch0#
+
+CTouch /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app
+s364557715.358226
+e364557715.360811
+r1
+xTouch
+x/Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app
+lSLF07#2@104"Touch /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app364557715#364557715#0(0"0(0#0#0"8615268800#312"    cd /Users/chris/Documents/xcode_workspace/PicrossIPhone    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/chris/Documents/xcode_workspace/PicrossIPhone/build/Debug-iphonesimulator/PicrossIPhone.app0#
+

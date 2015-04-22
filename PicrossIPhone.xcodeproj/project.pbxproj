@@ -1,0 +1,544 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* PicrossIPhoneAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* PicrossIPhoneAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* PicrossIPhoneViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* PicrossIPhoneViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* PicrossIPhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* PicrossIPhoneViewController.m */; };
+		8312A8C814956F2600AD1FCA /* PicrossIPhoneView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8C714956F2600AD1FCA /* PicrossIPhoneView.m */; };
+		8312A90C1495711600AD1FCA /* LibDebug.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8F51495711600AD1FCA /* LibDebug.m */; };
+		8312A90D1495711600AD1FCA /* LibDialog.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8F71495711600AD1FCA /* LibDialog.m */; };
+		8312A90E1495711600AD1FCA /* LibDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8F91495711600AD1FCA /* LibDrawing.m */; };
+		8312A90F1495711600AD1FCA /* LibIO.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8FB1495711600AD1FCA /* LibIO.m */; };
+		8312A9101495711600AD1FCA /* LibKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8FD1495711600AD1FCA /* LibKey.m */; };
+		8312A9111495711600AD1FCA /* LibKeySystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A8FF1495711600AD1FCA /* LibKeySystem.m */; };
+		8312A9121495711600AD1FCA /* LibMath.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A9011495711600AD1FCA /* LibMath.m */; };
+		8312A9131495711600AD1FCA /* LibSliver.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A9031495711600AD1FCA /* LibSliver.m */; };
+		8312A9141495711600AD1FCA /* LibSliverParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A9051495711600AD1FCA /* LibSliverParticle.m */; };
+		8312A9151495711600AD1FCA /* LibSound.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A9071495711600AD1FCA /* LibSound.m */; };
+		8312A9161495711600AD1FCA /* LibThread.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A9091495711600AD1FCA /* LibThread.m */; };
+		8312A9171495711600AD1FCA /* LibUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 8312A90B1495711600AD1FCA /* LibUtil.m */; };
+		83887F6714BA092200C322C1 /* Picross.m in Sources */ = {isa = PBXBuildFile; fileRef = 83887F6614BA092200C322C1 /* Picross.m */; };
+		83887F9A14BA0F7700C322C1 /* PicrossSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 83887F9914BA0F7700C322C1 /* PicrossSettings.m */; };
+		8389A6DA14C2464E0070F180 /* PicrossResources.m in Sources */ = {isa = PBXBuildFile; fileRef = 8389A6D914C2464E0070F180 /* PicrossResources.m */; };
+		8389A70E14C247340070F180 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FA14C247340070F180 /* 0.png */; };
+		8389A70F14C247340070F180 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FB14C247340070F180 /* 1.png */; };
+		8389A71014C247340070F180 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FC14C247340070F180 /* 2.png */; };
+		8389A71114C247340070F180 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FD14C247340070F180 /* 3.png */; };
+		8389A71214C247340070F180 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FE14C247340070F180 /* 4.png */; };
+		8389A71314C247340070F180 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A6FF14C247340070F180 /* 5.png */; };
+		8389A71414C247340070F180 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70014C247340070F180 /* 6.png */; };
+		8389A71514C247340070F180 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70114C247340070F180 /* 7.png */; };
+		8389A71614C247340070F180 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70214C247340070F180 /* 8.png */; };
+		8389A71714C247340070F180 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70314C247340070F180 /* 9.png */; };
+		8389A71814C247340070F180 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70414C247340070F180 /* 10.png */; };
+		8389A71914C247340070F180 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70514C247340070F180 /* 11.png */; };
+		8389A71A14C247340070F180 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70614C247340070F180 /* 12.png */; };
+		8389A71B14C247340070F180 /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70714C247340070F180 /* 13.png */; };
+		8389A71C14C247340070F180 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70814C247340070F180 /* 14.png */; };
+		8389A71D14C247340070F180 /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70914C247340070F180 /* 15.png */; };
+		8389A71E14C247340070F180 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70A14C247340070F180 /* 16.png */; };
+		8389A71F14C247340070F180 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70B14C247340070F180 /* 17.png */; };
+		8389A72014C247340070F180 /* bg.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8389A70D14C247340070F180 /* bg.mp3 */; };
+		8389A74614C248870070F180 /* PicrossLevel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8389A73F14C248870070F180 /* PicrossLevel.m */; };
+		8389A74714C248870070F180 /* PicrossState.m in Sources */ = {isa = PBXBuildFile; fileRef = 8389A74114C248870070F180 /* PicrossState.m */; };
+		8389A74814C248870070F180 /* PicrossMainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 8389A74314C248870070F180 /* PicrossMainMenu.m */; };
+		8389A74914C248870070F180 /* PicrossGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 8389A74514C248870070F180 /* PicrossGame.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* PicrossIPhoneAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossIPhoneAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* PicrossIPhoneAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossIPhoneAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* PicrossIPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PicrossIPhone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* PicrossIPhoneViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PicrossIPhoneViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* PicrossIPhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossIPhoneViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* PicrossIPhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossIPhoneViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* PicrossIPhone_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossIPhone_Prefix.pch; sourceTree = "<group>"; };
+		8312A8C614956F2600AD1FCA /* PicrossIPhoneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicrossIPhoneView.h; sourceTree = "<group>"; };
+		8312A8C714956F2600AD1FCA /* PicrossIPhoneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicrossIPhoneView.m; sourceTree = "<group>"; };
+		8312A8F41495711600AD1FCA /* LibDebug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDebug.h; sourceTree = "<group>"; };
+		8312A8F51495711600AD1FCA /* LibDebug.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDebug.m; sourceTree = "<group>"; };
+		8312A8F61495711600AD1FCA /* LibDialog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDialog.h; sourceTree = "<group>"; };
+		8312A8F71495711600AD1FCA /* LibDialog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDialog.m; sourceTree = "<group>"; };
+		8312A8F81495711600AD1FCA /* LibDrawing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibDrawing.h; sourceTree = "<group>"; };
+		8312A8F91495711600AD1FCA /* LibDrawing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibDrawing.m; sourceTree = "<group>"; };
+		8312A8FA1495711600AD1FCA /* LibIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibIO.h; sourceTree = "<group>"; };
+		8312A8FB1495711600AD1FCA /* LibIO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibIO.m; sourceTree = "<group>"; };
+		8312A8FC1495711600AD1FCA /* LibKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibKey.h; sourceTree = "<group>"; };
+		8312A8FD1495711600AD1FCA /* LibKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibKey.m; sourceTree = "<group>"; };
+		8312A8FE1495711600AD1FCA /* LibKeySystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibKeySystem.h; sourceTree = "<group>"; };
+		8312A8FF1495711600AD1FCA /* LibKeySystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibKeySystem.m; sourceTree = "<group>"; };
+		8312A9001495711600AD1FCA /* LibMath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibMath.h; sourceTree = "<group>"; };
+		8312A9011495711600AD1FCA /* LibMath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibMath.m; sourceTree = "<group>"; };
+		8312A9021495711600AD1FCA /* LibSliver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSliver.h; sourceTree = "<group>"; };
+		8312A9031495711600AD1FCA /* LibSliver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSliver.m; sourceTree = "<group>"; };
+		8312A9041495711600AD1FCA /* LibSliverParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSliverParticle.h; sourceTree = "<group>"; };
+		8312A9051495711600AD1FCA /* LibSliverParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSliverParticle.m; sourceTree = "<group>"; };
+		8312A9061495711600AD1FCA /* LibSound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibSound.h; sourceTree = "<group>"; };
+		8312A9071495711600AD1FCA /* LibSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibSound.m; sourceTree = "<group>"; };
+		8312A9081495711600AD1FCA /* LibThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibThread.h; sourceTree = "<group>"; };
+		8312A9091495711600AD1FCA /* LibThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibThread.m; sourceTree = "<group>"; };
+		8312A90A1495711600AD1FCA /* LibUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibUtil.h; sourceTree = "<group>"; };
+		8312A90B1495711600AD1FCA /* LibUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibUtil.m; sourceTree = "<group>"; };
+		83887F6514BA092200C322C1 /* Picross.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Picross.h; path = Classes/Picross.h; sourceTree = SOURCE_ROOT; };
+		83887F6614BA092200C322C1 /* Picross.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Picross.m; path = Classes/Picross.m; sourceTree = SOURCE_ROOT; };
+		83887F9814BA0F7700C322C1 /* PicrossSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossSettings.h; path = Classes/PicrossSettings.h; sourceTree = SOURCE_ROOT; };
+		83887F9914BA0F7700C322C1 /* PicrossSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossSettings.m; path = Classes/PicrossSettings.m; sourceTree = SOURCE_ROOT; };
+		8389A6D814C2464E0070F180 /* PicrossResources.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossResources.h; path = Classes/PicrossResources.h; sourceTree = SOURCE_ROOT; };
+		8389A6D914C2464E0070F180 /* PicrossResources.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossResources.m; path = Classes/PicrossResources.m; sourceTree = SOURCE_ROOT; };
+		8389A6FA14C247340070F180 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = SOURCE_ROOT; };
+		8389A6FB14C247340070F180 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = SOURCE_ROOT; };
+		8389A6FC14C247340070F180 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = SOURCE_ROOT; };
+		8389A6FD14C247340070F180 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = SOURCE_ROOT; };
+		8389A6FE14C247340070F180 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = SOURCE_ROOT; };
+		8389A6FF14C247340070F180 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = SOURCE_ROOT; };
+		8389A70014C247340070F180 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = SOURCE_ROOT; };
+		8389A70114C247340070F180 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = SOURCE_ROOT; };
+		8389A70214C247340070F180 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = SOURCE_ROOT; };
+		8389A70314C247340070F180 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = SOURCE_ROOT; };
+		8389A70414C247340070F180 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = SOURCE_ROOT; };
+		8389A70514C247340070F180 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = SOURCE_ROOT; };
+		8389A70614C247340070F180 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = SOURCE_ROOT; };
+		8389A70714C247340070F180 /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 13.png; sourceTree = SOURCE_ROOT; };
+		8389A70814C247340070F180 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = SOURCE_ROOT; };
+		8389A70914C247340070F180 /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = SOURCE_ROOT; };
+		8389A70A14C247340070F180 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = SOURCE_ROOT; };
+		8389A70B14C247340070F180 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = SOURCE_ROOT; };
+		8389A70D14C247340070F180 /* bg.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bg.mp3; sourceTree = SOURCE_ROOT; };
+		8389A73E14C248870070F180 /* PicrossLevel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossLevel.h; path = Classes/PicrossLevel.h; sourceTree = SOURCE_ROOT; };
+		8389A73F14C248870070F180 /* PicrossLevel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossLevel.m; path = Classes/PicrossLevel.m; sourceTree = SOURCE_ROOT; };
+		8389A74014C248870070F180 /* PicrossState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossState.h; path = Classes/PicrossState.h; sourceTree = SOURCE_ROOT; };
+		8389A74114C248870070F180 /* PicrossState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossState.m; path = Classes/PicrossState.m; sourceTree = SOURCE_ROOT; };
+		8389A74214C248870070F180 /* PicrossMainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossMainMenu.h; path = Classes/PicrossMainMenu.h; sourceTree = SOURCE_ROOT; };
+		8389A74314C248870070F180 /* PicrossMainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossMainMenu.m; path = Classes/PicrossMainMenu.m; sourceTree = SOURCE_ROOT; };
+		8389A74414C248870070F180 /* PicrossGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PicrossGame.h; path = Classes/PicrossGame.h; sourceTree = SOURCE_ROOT; };
+		8389A74514C248870070F180 /* PicrossGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PicrossGame.m; path = Classes/PicrossGame.m; sourceTree = SOURCE_ROOT; };
+		8D1107310486CEB800E47090 /* PicrossIPhone-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PicrossIPhone-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				83887F6214BA08BE00C322C1 /* picross */,
+				8312A9181495711B00AD1FCA /* lib */,
+				1D3623240D0F684500981E51 /* PicrossIPhoneAppDelegate.h */,
+				1D3623250D0F684500981E51 /* PicrossIPhoneAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* PicrossIPhone.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* PicrossIPhone_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8389A70C14C247340070F180 /* sounds */,
+				8389A6F914C247340070F180 /* images */,
+				2899E5210DE3E06400AC0155 /* PicrossIPhoneViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* PicrossIPhone-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8312A9181495711B00AD1FCA /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				83875DD514B9119B00B93C51 /* fx */,
+				83875DD114B9114800B93C51 /* io */,
+				83875DD314B9115700B93C51 /* ui */,
+				83875DD414B9116B00B93C51 /* util */,
+			);
+			name = lib;
+			sourceTree = "<group>";
+		};
+		83875DD114B9114800B93C51 /* io */ = {
+			isa = PBXGroup;
+			children = (
+				8312A8FA1495711600AD1FCA /* LibIO.h */,
+				8312A8FB1495711600AD1FCA /* LibIO.m */,
+				8312A8FC1495711600AD1FCA /* LibKey.h */,
+				8312A8FD1495711600AD1FCA /* LibKey.m */,
+				8312A8FE1495711600AD1FCA /* LibKeySystem.h */,
+				8312A8FF1495711600AD1FCA /* LibKeySystem.m */,
+				8312A9061495711600AD1FCA /* LibSound.h */,
+				8312A9071495711600AD1FCA /* LibSound.m */,
+				8312A9081495711600AD1FCA /* LibThread.h */,
+				8312A9091495711600AD1FCA /* LibThread.m */,
+			);
+			name = io;
+			sourceTree = "<group>";
+		};
+		83875DD314B9115700B93C51 /* ui */ = {
+			isa = PBXGroup;
+			children = (
+				8312A8F61495711600AD1FCA /* LibDialog.h */,
+				8312A8F71495711600AD1FCA /* LibDialog.m */,
+				8312A8F81495711600AD1FCA /* LibDrawing.h */,
+				8312A8F91495711600AD1FCA /* LibDrawing.m */,
+			);
+			name = ui;
+			sourceTree = "<group>";
+		};
+		83875DD414B9116B00B93C51 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				8312A8F41495711600AD1FCA /* LibDebug.h */,
+				8312A8F51495711600AD1FCA /* LibDebug.m */,
+				8312A9001495711600AD1FCA /* LibMath.h */,
+				8312A9011495711600AD1FCA /* LibMath.m */,
+				8312A90A1495711600AD1FCA /* LibUtil.h */,
+				8312A90B1495711600AD1FCA /* LibUtil.m */,
+			);
+			name = util;
+			sourceTree = "<group>";
+		};
+		83875DD514B9119B00B93C51 /* fx */ = {
+			isa = PBXGroup;
+			children = (
+				8312A9021495711600AD1FCA /* LibSliver.h */,
+				8312A9031495711600AD1FCA /* LibSliver.m */,
+				8312A9041495711600AD1FCA /* LibSliverParticle.h */,
+				8312A9051495711600AD1FCA /* LibSliverParticle.m */,
+			);
+			name = fx;
+			sourceTree = "<group>";
+		};
+		83887F6214BA08BE00C322C1 /* picross */ = {
+			isa = PBXGroup;
+			children = (
+				8389A73D14C248870070F180 /* state */,
+				8389A6D714C2464E0070F180 /* io */,
+				83887F6314BA08C400C322C1 /* ui */,
+				83887F6514BA092200C322C1 /* Picross.h */,
+				83887F6614BA092200C322C1 /* Picross.m */,
+				83887F9814BA0F7700C322C1 /* PicrossSettings.h */,
+				83887F9914BA0F7700C322C1 /* PicrossSettings.m */,
+			);
+			name = picross;
+			sourceTree = "<group>";
+		};
+		83887F6314BA08C400C322C1 /* ui */ = {
+			isa = PBXGroup;
+			children = (
+				8312A8C614956F2600AD1FCA /* PicrossIPhoneView.h */,
+				8312A8C714956F2600AD1FCA /* PicrossIPhoneView.m */,
+				28D7ACF60DDB3853001CB0EB /* PicrossIPhoneViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* PicrossIPhoneViewController.m */,
+			);
+			name = ui;
+			sourceTree = "<group>";
+		};
+		8389A6D714C2464E0070F180 /* io */ = {
+			isa = PBXGroup;
+			children = (
+				8389A6D814C2464E0070F180 /* PicrossResources.h */,
+				8389A6D914C2464E0070F180 /* PicrossResources.m */,
+			);
+			name = io;
+			path = Classes;
+			sourceTree = SOURCE_ROOT;
+		};
+		8389A6F914C247340070F180 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8389A6FA14C247340070F180 /* 0.png */,
+				8389A6FB14C247340070F180 /* 1.png */,
+				8389A6FC14C247340070F180 /* 2.png */,
+				8389A6FD14C247340070F180 /* 3.png */,
+				8389A6FE14C247340070F180 /* 4.png */,
+				8389A6FF14C247340070F180 /* 5.png */,
+				8389A70014C247340070F180 /* 6.png */,
+				8389A70114C247340070F180 /* 7.png */,
+				8389A70214C247340070F180 /* 8.png */,
+				8389A70314C247340070F180 /* 9.png */,
+				8389A70414C247340070F180 /* 10.png */,
+				8389A70514C247340070F180 /* 11.png */,
+				8389A70614C247340070F180 /* 12.png */,
+				8389A70714C247340070F180 /* 13.png */,
+				8389A70814C247340070F180 /* 14.png */,
+				8389A70914C247340070F180 /* 15.png */,
+				8389A70A14C247340070F180 /* 16.png */,
+				8389A70B14C247340070F180 /* 17.png */,
+			);
+			name = images;
+			sourceTree = SOURCE_ROOT;
+		};
+		8389A70C14C247340070F180 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				8389A70D14C247340070F180 /* bg.mp3 */,
+			);
+			name = sounds;
+			sourceTree = SOURCE_ROOT;
+		};
+		8389A73D14C248870070F180 /* state */ = {
+			isa = PBXGroup;
+			children = (
+				8389A73E14C248870070F180 /* PicrossLevel.h */,
+				8389A73F14C248870070F180 /* PicrossLevel.m */,
+				8389A74014C248870070F180 /* PicrossState.h */,
+				8389A74114C248870070F180 /* PicrossState.m */,
+				8389A74214C248870070F180 /* PicrossMainMenu.h */,
+				8389A74314C248870070F180 /* PicrossMainMenu.m */,
+				8389A74414C248870070F180 /* PicrossGame.h */,
+				8389A74514C248870070F180 /* PicrossGame.m */,
+			);
+			name = state;
+			path = Classes;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* PicrossIPhone */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "PicrossIPhone" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PicrossIPhone;
+			productName = PicrossIPhone;
+			productReference = 1D6058910D05DD3D006BFB54 /* PicrossIPhone.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PicrossIPhone" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* PicrossIPhone */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* PicrossIPhoneViewController.xib in Resources */,
+				8389A70E14C247340070F180 /* 0.png in Resources */,
+				8389A70F14C247340070F180 /* 1.png in Resources */,
+				8389A71014C247340070F180 /* 2.png in Resources */,
+				8389A71114C247340070F180 /* 3.png in Resources */,
+				8389A71214C247340070F180 /* 4.png in Resources */,
+				8389A71314C247340070F180 /* 5.png in Resources */,
+				8389A71414C247340070F180 /* 6.png in Resources */,
+				8389A71514C247340070F180 /* 7.png in Resources */,
+				8389A71614C247340070F180 /* 8.png in Resources */,
+				8389A71714C247340070F180 /* 9.png in Resources */,
+				8389A71814C247340070F180 /* 10.png in Resources */,
+				8389A71914C247340070F180 /* 11.png in Resources */,
+				8389A71A14C247340070F180 /* 12.png in Resources */,
+				8389A71B14C247340070F180 /* 13.png in Resources */,
+				8389A71C14C247340070F180 /* 14.png in Resources */,
+				8389A71D14C247340070F180 /* 15.png in Resources */,
+				8389A71E14C247340070F180 /* 16.png in Resources */,
+				8389A71F14C247340070F180 /* 17.png in Resources */,
+				8389A72014C247340070F180 /* bg.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* PicrossIPhoneAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* PicrossIPhoneViewController.m in Sources */,
+				8312A8C814956F2600AD1FCA /* PicrossIPhoneView.m in Sources */,
+				8312A90C1495711600AD1FCA /* LibDebug.m in Sources */,
+				8312A90D1495711600AD1FCA /* LibDialog.m in Sources */,
+				8312A90E1495711600AD1FCA /* LibDrawing.m in Sources */,
+				8312A90F1495711600AD1FCA /* LibIO.m in Sources */,
+				8312A9101495711600AD1FCA /* LibKey.m in Sources */,
+				8312A9111495711600AD1FCA /* LibKeySystem.m in Sources */,
+				8312A9121495711600AD1FCA /* LibMath.m in Sources */,
+				8312A9131495711600AD1FCA /* LibSliver.m in Sources */,
+				8312A9141495711600AD1FCA /* LibSliverParticle.m in Sources */,
+				8312A9151495711600AD1FCA /* LibSound.m in Sources */,
+				8312A9161495711600AD1FCA /* LibThread.m in Sources */,
+				8312A9171495711600AD1FCA /* LibUtil.m in Sources */,
+				83887F6714BA092200C322C1 /* Picross.m in Sources */,
+				83887F9A14BA0F7700C322C1 /* PicrossSettings.m in Sources */,
+				8389A6DA14C2464E0070F180 /* PicrossResources.m in Sources */,
+				8389A74614C248870070F180 /* PicrossLevel.m in Sources */,
+				8389A74714C248870070F180 /* PicrossState.m in Sources */,
+				8389A74814C248870070F180 /* PicrossMainMenu.m in Sources */,
+				8389A74914C248870070F180 /* PicrossGame.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PicrossIPhone_Prefix.pch;
+				INFOPLIST_FILE = "PicrossIPhone-Info.plist";
+				PRODUCT_NAME = PicrossIPhone;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PicrossIPhone_Prefix.pch;
+				INFOPLIST_FILE = "PicrossIPhone-Info.plist";
+				PRODUCT_NAME = PicrossIPhone;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "PicrossIPhone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PicrossIPhone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
